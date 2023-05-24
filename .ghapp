@@ -5,5 +5,6 @@
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["analemmatic", "anon", "arcadefont", "cairobasic", "cairocore", "chipmunkbasic", "chipmunkcore", "CP1919", "cryogenic", "devout", "devoutansi", "devoutpdf", "devoutrgl", "devoutsvg", "emphatic", "flagon", "flexo", "foist", "frak", "fugly", "geomlime", "ggpattern", "ggreverse", "ggrgl", "gridfont", "hershey"]
 }
