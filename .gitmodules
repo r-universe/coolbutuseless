@@ -2,7 +2,51 @@
 	path = .registry
 	url = https://github.com/coolbutuseless/universe
 	branch = HEAD
+[submodule "c64asm"]
+	path = c64asm
+	url = https://github.com/coolbutuseless/c64asm
+[submodule "c64tass"]
+	path = c64tass
+	url = https://github.com/coolbutuseless/c64tass
+[submodule "c64vice"]
+	path = c64vice
+	url = https://github.com/coolbutuseless/c64vice
+[submodule "callme"]
+	path = callme
+	url = https://github.com/coolbutuseless/callme
+[submodule "carelesswhisper"]
+	path = carelesswhisper
+	url = https://github.com/coolbutuseless/carelesswhisper
+[submodule "colourlookup"]
+	path = colourlookup
+	url = https://github.com/coolbutuseless/colourlookup
 [submodule "emphatic"]
 	path = emphatic
 	url = https://github.com/coolbutuseless/emphatic
-	branch = main
+[submodule "flexo"]
+	path = flexo
+	url = https://github.com/coolbutuseless/flexo
+[submodule "ggpattern"]
+	path = ggpattern
+	url = https://github.com/coolbutuseless/ggpattern
+[submodule "ggsvg"]
+	path = ggsvg
+	url = https://github.com/coolbutuseless/ggsvg
+[submodule "lz4lite"]
+	path = lz4lite
+	url = https://github.com/coolbutuseless/lz4lite
+[submodule "nara"]
+	path = nara
+	url = https://github.com/coolbutuseless/nara
+[submodule "rbytecode"]
+	path = rbytecode
+	url = https://github.com/coolbutuseless/rbytecode
+[submodule "tickle"]
+	path = tickle
+	url = https://github.com/coolbutuseless/tickle
+[submodule "visvalingam"]
+	path = visvalingam
+	url = https://github.com/coolbutuseless/visvalingam
+[submodule "zstdlite"]
+	path = zstdlite
+	url = https://github.com/coolbutuseless/zstdlite
