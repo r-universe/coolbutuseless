@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["CP1919", "anon", "analemmatic", "foist", "ggreverse", "devout", "hershey", "devoutpdf", "devoutsvg", "ggpattern", "flagon", "devoutansi", "arcadefont", "gridfont", "frak", "cairocore", "cairobasic", "chipmunkcore", "chipmunkbasic", "cryogenic", "devoutrgl", "geomlime", "emphatic", "ggrgl", "flexo", "fugly"]
+  "repositories": ["CP1919", "anon", "analemmatic", "foist", "ggreverse", "devout", "hershey", "devoutpdf", "devoutsvg", "flagon", "devoutansi", "arcadefont", "gridfont", "frak", "cairocore", "cairobasic", "chipmunkcore", "chipmunkbasic", "cryogenic", "devoutrgl", "geomlime", "emphatic", "ggrgl", "flexo", "fugly"]
 }
