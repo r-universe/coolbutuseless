@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/coolbutuseless/universe
+	url = https://github.com/coolbutuseless/coolbutuseless.r-universe.dev
 	branch = HEAD
 [submodule "c64asm"]
 	path = c64asm
