@@ -47,6 +47,12 @@
 [submodule "visvalingam"]
 	path = visvalingam
 	url = https://github.com/coolbutuseless/visvalingam
+[submodule "xxhashlite"]
+	path = xxhashlite
+	url = https://github.com/coolbutuseless/xxhashlite
+[submodule "yyjsonr"]
+	path = yyjsonr
+	url = https://github.com/coolbutuseless/yyjsonr
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
