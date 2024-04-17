@@ -32,6 +32,10 @@
 [submodule "ggsvg"]
 	path = ggsvg
 	url = https://github.com/coolbutuseless/ggsvg
+[submodule "gridpattern"]
+	path = gridpattern
+	url = https://github.com/trevorld/gridpattern
+	registered = false
 [submodule "lz4lite"]
 	path = lz4lite
 	url = https://github.com/coolbutuseless/lz4lite
