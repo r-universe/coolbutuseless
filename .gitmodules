@@ -20,6 +20,9 @@
 [submodule "colourlookup"]
 	path = colourlookup
 	url = https://github.com/coolbutuseless/colourlookup
+[submodule "cryptorng"]
+	path = cryptorng
+	url = https://github.com/coolbutuseless/cryptorng
 [submodule "emphatic"]
 	path = emphatic
 	url = https://github.com/coolbutuseless/emphatic
@@ -45,6 +48,9 @@
 [submodule "rbytecode"]
 	path = rbytecode
 	url = https://github.com/coolbutuseless/rbytecode
+[submodule "rmonocypher"]
+	path = rmonocypher
+	url = https://github.com/coolbutuseless/rmonocypher
 [submodule "tickle"]
 	path = tickle
 	url = https://github.com/coolbutuseless/tickle
