@@ -26,6 +26,9 @@
 [submodule "emphatic"]
 	path = emphatic
 	url = https://github.com/coolbutuseless/emphatic
+[submodule "fastpng"]
+	path = fastpng
+	url = https://github.com/coolbutuseless/fastpng
 [submodule "flexo"]
 	path = flexo
 	url = https://github.com/coolbutuseless/flexo
@@ -35,6 +38,9 @@
 [submodule "ggsvg"]
 	path = ggsvg
 	url = https://github.com/coolbutuseless/ggsvg
+[submodule "governor"]
+	path = governor
+	url = https://github.com/coolbutuseless/governor
 [submodule "lz4lite"]
 	path = lz4lite
 	url = https://github.com/coolbutuseless/lz4lite
@@ -47,6 +53,9 @@
 [submodule "rmonocypher"]
 	path = rmonocypher
 	url = https://github.com/coolbutuseless/rmonocypher
+[submodule "serializer"]
+	path = serializer
+	url = https://github.com/coolbutuseless/serializer
 [submodule "tickle"]
 	path = tickle
 	url = https://github.com/coolbutuseless/tickle
