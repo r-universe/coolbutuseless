@@ -23,6 +23,9 @@
 [submodule "cryptorng"]
 	path = cryptorng
 	url = https://github.com/coolbutuseless/cryptorng
+[submodule "ctypesio"]
+	path = ctypesio
+	url = https://github.com/coolbutuseless/ctypesio
 [submodule "emphatic"]
 	path = emphatic
 	url = https://github.com/coolbutuseless/emphatic
