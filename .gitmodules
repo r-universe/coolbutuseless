@@ -50,12 +50,18 @@
 [submodule "nara"]
 	path = nara
 	url = https://github.com/coolbutuseless/nara
+[submodule "poissoned"]
+	path = poissoned
+	url = https://github.com/coolbutuseless/poissoned
 [submodule "rbytecode"]
 	path = rbytecode
 	url = https://github.com/coolbutuseless/rbytecode
 [submodule "rmonocypher"]
 	path = rmonocypher
 	url = https://github.com/coolbutuseless/rmonocypher
+[submodule "rvoronoi"]
+	path = rvoronoi
+	url = https://github.com/coolbutuseless/rvoronoi
 [submodule "serializer"]
 	path = serializer
 	url = https://github.com/coolbutuseless/serializer
