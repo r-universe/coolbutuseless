@@ -50,6 +50,9 @@
 [submodule "nara"]
 	path = nara
 	url = https://github.com/coolbutuseless/nara
+[submodule "picohdr"]
+	path = picohdr
+	url = https://github.com/coolbutuseless/picohdr
 [submodule "poissoned"]
 	path = poissoned
 	url = https://github.com/coolbutuseless/poissoned
