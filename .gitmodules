@@ -44,6 +44,9 @@
 [submodule "governor"]
 	path = governor
 	url = https://github.com/coolbutuseless/governor
+[submodule "lofifonts"]
+	path = lofifonts
+	url = https://github.com/coolbutuseless/lofifonts
 [submodule "lz4lite"]
 	path = lz4lite
 	url = https://github.com/coolbutuseless/lz4lite
