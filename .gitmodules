@@ -44,6 +44,12 @@
 [submodule "governor"]
 	path = governor
 	url = https://github.com/coolbutuseless/governor
+[submodule "insitu"]
+	path = insitu
+	url = https://github.com/coolbutuseless/insitu
+[submodule "isocubes"]
+	path = isocubes
+	url = https://github.com/coolbutuseless/isocubes
 [submodule "lofifonts"]
 	path = lofifonts
 	url = https://github.com/coolbutuseless/lofifonts
