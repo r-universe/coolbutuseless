@@ -17,9 +17,9 @@
 [submodule "carelesswhisper"]
 	path = carelesswhisper
 	url = https://github.com/coolbutuseless/carelesswhisper
-[submodule "colourlookup"]
-	path = colourlookup
-	url = https://github.com/coolbutuseless/colourlookup
+[submodule "colorfast"]
+	path = colorfast
+	url = https://github.com/coolbutuseless/colorfast
 [submodule "cryptorng"]
 	path = cryptorng
 	url = https://github.com/coolbutuseless/cryptorng
