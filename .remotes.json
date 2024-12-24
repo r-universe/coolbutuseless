@@ -2,6 +2,12 @@
   {
     "package": "colorfast",
     "url": "https://github.com/coolbutuseless/colorfast",
+    "via": ["fastpng"],
+    "from": "fastpng"
+  },
+  {
+    "package": "colorfast",
+    "url": "https://github.com/coolbutuseless/colorfast",
     "via": ["nara"],
     "from": "nara"
   }
