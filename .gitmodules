@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/coolbutuseless/coolbutuseless.r-universe.dev
 	branch = HEAD
+[submodule "bitstreamio"]
+	path = bitstreamio
+	url = https://github.com/coolbutuseless/bitstreamio
 [submodule "c64asm"]
 	path = c64asm
 	url = https://github.com/coolbutuseless/c64asm
