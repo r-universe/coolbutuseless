@@ -65,6 +65,9 @@
 [submodule "picohdr"]
 	path = picohdr
 	url = https://github.com/coolbutuseless/picohdr
+[submodule "picosatire"]
+	path = picosatire
+	url = https://github.com/coolbutuseless/picosatire
 [submodule "poissoned"]
 	path = poissoned
 	url = https://github.com/coolbutuseless/poissoned
