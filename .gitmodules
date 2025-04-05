@@ -80,6 +80,9 @@
 [submodule "rvoronoi"]
 	path = rvoronoi
 	url = https://github.com/coolbutuseless/rvoronoi
+[submodule "satire"]
+	path = satire
+	url = https://github.com/coolbutuseless/satire
 [submodule "serializer"]
 	path = serializer
 	url = https://github.com/coolbutuseless/serializer
