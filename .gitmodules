@@ -53,6 +53,9 @@
 [submodule "isocubes"]
 	path = isocubes
 	url = https://github.com/coolbutuseless/isocubes
+[submodule "kissatire"]
+	path = kissatire
+	url = https://github.com/coolbutuseless/kissatire
 [submodule "lofifonts"]
 	path = lofifonts
 	url = https://github.com/coolbutuseless/lofifonts
