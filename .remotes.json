@@ -2,6 +2,12 @@
   {
     "package": "satire",
     "url": "https://github.com/coolbutuseless/satire",
+    "via": ["kissatire"],
+    "from": "kissatire"
+  },
+  {
+    "package": "satire",
+    "url": "https://github.com/coolbutuseless/satire",
     "via": ["picosatire"],
     "from": "picosatire"
   }
