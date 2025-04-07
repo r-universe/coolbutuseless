@@ -35,6 +35,9 @@
 [submodule "fastpng"]
 	path = fastpng
 	url = https://github.com/coolbutuseless/fastpng
+[submodule "feck"]
+	path = feck
+	url = https://github.com/coolbutuseless/feck
 [submodule "flexo"]
 	path = flexo
 	url = https://github.com/coolbutuseless/flexo
