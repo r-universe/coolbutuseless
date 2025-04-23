@@ -68,6 +68,9 @@
 [submodule "nara"]
 	path = nara
 	url = https://github.com/coolbutuseless/nara
+[submodule "openf1r"]
+	path = openf1r
+	url = https://github.com/coolbutuseless/openf1r
 [submodule "picohdr"]
 	path = picohdr
 	url = https://github.com/coolbutuseless/picohdr
