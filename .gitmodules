@@ -110,6 +110,9 @@
 [submodule "yyjsonr"]
 	path = yyjsonr
 	url = https://github.com/coolbutuseless/yyjsonr
+[submodule "zap"]
+	path = zap
+	url = https://github.com/coolbutuseless/zap
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
