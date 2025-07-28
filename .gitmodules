@@ -23,6 +23,9 @@
 [submodule "colorfast"]
 	path = colorfast
 	url = https://github.com/coolbutuseless/colorfast
+[submodule "crosswordio"]
+	path = crosswordio
+	url = https://github.com/coolbutuseless/crosswordio
 [submodule "cryptorng"]
 	path = cryptorng
 	url = https://github.com/coolbutuseless/cryptorng
