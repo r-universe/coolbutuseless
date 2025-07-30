@@ -41,6 +41,9 @@
 [submodule "feck"]
 	path = feck
 	url = https://github.com/coolbutuseless/feck
+[submodule "flexfont"]
+	path = flexfont
+	url = https://github.com/coolbutuseless/flexfont
 [submodule "flexo"]
 	path = flexo
 	url = https://github.com/coolbutuseless/flexo
