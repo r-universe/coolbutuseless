@@ -71,6 +71,9 @@
 [submodule "lz4lite"]
 	path = lz4lite
 	url = https://github.com/coolbutuseless/lz4lite
+[submodule "minipdf"]
+	path = minipdf
+	url = https://github.com/coolbutuseless/lminipd
 [submodule "nara"]
 	path = nara
 	url = https://github.com/coolbutuseless/nara
