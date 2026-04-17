@@ -74,6 +74,9 @@
 [submodule "minipdf"]
 	path = minipdf
 	url = https://github.com/coolbutuseless/minipdf
+[submodule "nanosvgr"]
+	path = nanosvgr
+	url = https://github.com/coolbutuseless/nanosvgr
 [submodule "nara"]
 	path = nara
 	url = https://github.com/coolbutuseless/nara
