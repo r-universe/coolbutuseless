@@ -95,6 +95,9 @@
 [submodule "rbytecode"]
 	path = rbytecode
 	url = https://github.com/coolbutuseless/rbytecode
+[submodule "rdoom"]
+	path = rdoom
+	url = https://github.com/coolbutuseless/rdoom
 [submodule "rectpacker"]
 	path = rectpacker
 	url = https://github.com/coolbutuseless/rectpacker
@@ -113,6 +116,12 @@
 [submodule "tickle"]
 	path = tickle
 	url = https://github.com/coolbutuseless/tickle
+[submodule "tigerdemos"]
+	path = tigerdemos
+	url = https://github.com/coolbutuseless/tigerdemos
+[submodule "tigerfb"]
+	path = tigerfb
+	url = https://github.com/coolbutuseless/tigerfb
 [submodule "visvalingam"]
 	path = visvalingam
 	url = https://github.com/coolbutuseless/visvalingam
